@@ -7,6 +7,8 @@
   </a>
 </p>
 
+<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
+
 ## 📌 About Me
 - 🌱 I’m currently learning Data Structures & Web Development
 - 👯 I’m looking to collaborate on open source and beginner-friendly projects
@@ -65,3 +67,6 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
